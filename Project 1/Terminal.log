@@ -1,0 +1,56 @@
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Creating Customer File..
+
+------New Customer------
+polyester@material.com Poly Ester
+APT-2C 900 0 2017-11-01
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+900
+aking@xyz.com Alan King
+ 900 
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Error: customer already exists
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+
+------Customer------
+Email:sweet@xyz.com
+Name: CandyBarr
+Apt: APT-3D
+Monthly Rent Amount:$900
+Next Due Date: 2017-10-07
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Error:apartment number not found
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+2950
+bhead@xyz.com Bea Head
+APT-7C 1500 2950 2017-10-03
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+Error: customer not found
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
